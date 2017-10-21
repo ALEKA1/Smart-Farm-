@@ -17,3 +17,9 @@ With regard to the material:
 - Solenoid valves
 - Graphic interfaces (LCD ...)
 
+
+Before running the program you must add the libraries to the Arduino libraries folder.
+
+To do this: copy the two folders (Adafruit_Sensor and DHT) that are in the libraries folder (the one I put), paste them in the arduino libraries folder.
+
+for me it's: C: \ Program Files \ Arduino \ libraries
