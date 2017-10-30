@@ -11,7 +11,7 @@ DHT dht(DHTPIN,DHTTYPE); // define the type of DHT and the pin which is 4 and th
 const int Sensor=0; //sensor assignment to pin analog 0
 int Value; //declaration of the variable that will store the read data from the analog sensor 
 const int relay1 = 12; //electrovanne pin  
-const int relay2= 11;  //air motor pin 
+const int relay2= 11;  //airmotor pin 
 const int limit = 330;  // threshold for launching the solenoid valve
 const byte ledgreen=8; 
 const byte ledred = 7;
