@@ -23,3 +23,10 @@ Before running the program you must add the libraries to the Arduino libraries f
 To do this: copy the two folders (Adafruit_Sensor and DHT) that are in the libraries folder (the one I put), paste them in the arduino libraries folder.
 
 for me it's: C: \ Program Files \ Arduino \ libraries
+
+#Contribution 
+If you want contribute: 
+-Fork the project 
+-Add your branch 
+-add your commit 
+-Finally push your pull request 
