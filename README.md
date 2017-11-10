@@ -1,4 +1,4 @@
-############ Farm2.0 ######### 
+############ Smart-Farm  ############# 
 
 
 Author: Salim Khazem, 
